@@ -2,3 +2,8 @@
 
 
 This repository is for understanding Git commands for DevOps
+
+Includes:
+
+-Commands
+-Tutorials
